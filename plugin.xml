@@ -44,6 +44,5 @@
 
         <source-file src="src/android/RevMobPlugin.java" target-dir="src/com/blakgeek/cordova/plugin/revmob" />
         <source-file src="src/android/revmob.jar" target-dir="libs" />
-        <framework src="com.google.android.gms:play-services-ads:+" />
     </platform>
 </plugin>
